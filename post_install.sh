@@ -7,4 +7,4 @@ pkg add --force https://github.com/MediaBrowser/Emby.Releases/releases/download/
 sysrc -f /etc/rc.conf emby_server_enable="YES"
 
 # Start the service
-service emby-server start 2>/dev/null
+service emby-server_1 start 2>/dev/null
