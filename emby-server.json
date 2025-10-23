@@ -41,7 +41,7 @@
     "x11-fonts/fontconfig",
     "x11-toolkits/pango"
   ],
-  "packagesite": "http://pkg.freebsd.org/FreeBSD:14:amd64/latest",
+  "packagesite": "http://pkg.freebsd.org/FreeBSD:13:amd64/latest",
   "fingerprints": {
     "plugin-default": [{
       "function": "sha256",
